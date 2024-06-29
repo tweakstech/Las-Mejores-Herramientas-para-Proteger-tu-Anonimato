@@ -1,24 +1,24 @@
 # 🛡️🔒 Herramientas para la Privacidad 🔐🕵️
 
 #### Navegadores:
-- **[Brave](https://brave.com) (para uso habitual)**: Un navegador web rápido, privado y seguro que bloquea anuncios y rastreadores por defecto.
-- **[Mullvad Browser](https://mullvad.net/en/browser/) (para más privacidad)**: Diseñado para maximizar la privacidad del usuario y minimizar la huella digital en línea.
-- **[Tor](https://www.torproject.org) (para deep web)**: Un navegador que permite navegar por la web de manera anónima y acceder a sitios de la deep web.
+- **[Brave](https://brave.com/es/) (para uso habitual)**: Un navegador web rápido, privado y seguro que bloquea anuncios y rastreadores por defecto.
+- **[Mullvad Browser](https://mullvad.net/es/browser) (para más privacidad)**: Diseñado para maximizar la privacidad del usuario y minimizar la huella digital en línea.
+- **[Tor](https://www.torproject.org/es/) (para deep web)**: Un navegador que permite navegar por la web de manera anónima y acceder a sitios de la deep web.
 
 #### Buscadores:
 - **[DuckDuckGo](https://duckduckgo.com)**: Un motor de búsqueda que no rastrea tus búsquedas ni tu actividad en línea.
 - **[Startpage](https://www.startpage.com)**: Un motor de búsqueda que garantiza la privacidad al no almacenar registros de búsqueda ni compartir información personal con terceros.
-- **[Qwant](https://www.qwant.com)**: Un buscador que protege la privacidad al no rastrear a los usuarios ni filtrar los resultados según perfiles de usuario.
+- **[Qwant](https://www.qwant.com/?l=es)**: Un buscador que protege la privacidad al no rastrear a los usuarios ni filtrar los resultados según perfiles de usuario.
 - **[Brave Search](https://search.brave.com)**: El motor de búsqueda de Brave, que enfatiza la privacidad y la transparencia al no rastrear ni almacenar datos de usuarios.
 
 #### Antivirus:
-- **[Malwarebytes](https://www.malwarebytes.com) (para uso habitual)**: Protege contra malware, ransomware y otras amenazas cibernéticas.
+- **[Malwarebytes](https://es.malwarebytes.com/) (para uso habitual)**: Protege contra malware, ransomware y otras amenazas cibernéticas.
 - **[Kaspersky](https://www.kaspersky.com) (para más seguridad)**: Ofrece una robusta protección contra virus, malware y ataques en línea.
-- **[Norton](https://us.norton.com) (seguridad)**: Proporciona una protección completa contra diversas amenazas cibernéticas, incluyendo virus y ransomware.
+- **[Norton](https://es.norton.com) (seguridad)**: Proporciona una protección completa contra diversas amenazas cibernéticas, incluyendo virus y ransomware.
 
 #### Gestores de Contraseñas:
 - **[KeePass](https://keepass.info)**: Un gestor de contraseñas gratuito y de código abierto que almacena todas tus contraseñas en una base de datos cifrada.
-- **[1Password](https://1password.com)**: Un gestor de contraseñas que facilita el almacenamiento y uso de contraseñas seguras en todos tus dispositivos.
+- **[1Password](https://1password.com/es)**: Un gestor de contraseñas que facilita el almacenamiento y uso de contraseñas seguras en todos tus dispositivos.
 - **[Norton Password Manager](https://us.norton.com/products/password-manager)**: Un gestor de contraseñas integrado en el paquete de seguridad de Norton.
 
 #### VPN:
