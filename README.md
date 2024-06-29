@@ -89,4 +89,15 @@
 - **Twitch**: Recopila y vende tus datos personales a terceros sin tu consentimiento explícito.
 
 ## La seguridad al 100% es imposible
-Aunque sigas todos estos consejos, la privacidad absoluta es prácticamente inalcanzable en la era digital. Para mantener niveles más altos de privacidad, sería ideal retroceder en el tiempo y evitar el uso de tecnologías modernas.
+> [!IMPORTANT]
+> Aunque sigas todos estos consejos, la privacidad absoluta es prácticamente inalcanzable en la era digital. Para mantener niveles más altos de privacidad, sería ideal retroceder en el tiempo y evitar el uso de tecnologías modernas.
+
+
+---
+
+
+## Licencia
+
+ Este proyecto se encuentra bajo la licencia [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). Consulta el archivo `LICENSE` para más detalles.
+
+© 2024 tweakstech
