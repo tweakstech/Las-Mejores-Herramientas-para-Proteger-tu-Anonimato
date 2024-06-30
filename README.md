@@ -1,4 +1,4 @@
-🛡️🔒 Las Mejores Herramientas para Proteger tu Anonimato 🔐🕵️
+# 🛡️🔒 Las Mejores Herramientas para Proteger tu Anonimato 🔐🕵️
 
 #### Navegadores:
 - **[Brave](https://brave.com/es/) (para uso habitual)**: Un navegador web rápido, privado y seguro que bloquea anuncios y rastreadores por defecto.
