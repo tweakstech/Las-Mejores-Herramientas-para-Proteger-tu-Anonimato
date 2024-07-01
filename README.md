@@ -68,25 +68,11 @@
 - **[LBRY](https://lbry.tv/)**: Una plataforma descentralizada de distribución de contenido que permite a los usuarios compartir y descubrir videos mientras protege la privacidad y la propiedad del contenido.
 - **[Yewtu.be](https://yewtu.be/)**: Una alternativa que proporciona una experiencia similar a YouTube, centrada en la privacidad y el control de datos del usuario.
 
-#### Servicios Anti-Privacidad:
-- **Windows**: Modifica el sistema operativo para proteger tu privacidad, ya que se sabe que recopila datos y los vende.
-- **iPhone**: Considerado un gasto innecesario debido a sus prácticas de privacidad cuestionables y su apoyo al trabajo esclavo en China.
-- **Android Phone**: Recomienda instalar [LineageOS](https://lineageos.org/) o [GrapheneOS](https://grapheneos.org/) para proteger tu privacidad, ya que Android en su forma estándar no la garantiza.
-- **Google Search**: Censurado por agencias como la CIA y la NSA, recopila y vende tus datos de búsqueda privados.
-- **Google Webbrowser**: Censurado por agencias como la CIA y la NSA, recopila y vende tus datos de navegación privados.
-- **Google Playstore**: Censurado por agencias como la CIA y la NSA, recopila y vende tus datos personales a terceros.
-- **Facebook**: Mark Zuckerberg controla y censura contenidos mientras recopila y vende tus datos personales.
-- **Instagram**: Mark Zuckerberg controla y censura contenidos mientras recopila y vende tus datos personales.
-- **WhatsApp**: Mark Zuckerberg controla y censura contenidos mientras recopila y vende tus datos personales.
-- **TikTok**: Censurado por el gobierno chino, recopila y vende tus datos personales a terceros.
-- **Epic Games**: Sospechado de recopilar y vender datos personales bajo influencia del gobierno chino.
-- **Easy Anti-Cheat**: Sospechado de recopilar y vender datos personales bajo influencia del gobierno chino.
-- **Ubisoft Connect**: Recopila y vende tus datos personales a terceros.
-- **Snapchat**: Grabación constante y recopilación de datos faciales para su venta a terceros.
-- **Amazon**: Ampliamente utilizado pero critica por apoyar el trabajo esclavo en China.
-- **Spotify**: Censura contenido y vende datos personales a terceros bajo políticas restrictivas de libertad de expresión.
-- **Discord**: Se recomienda su uso a través de un navegador web para evitar la aplicación, que podría comprometer tu privacidad.
-- **Twitch**: Recopila y vende tus datos personales a terceros sin tu consentimiento explícito.
+#### Herramientas de Virtualización:
+- **[VirtualBox](https://www.virtualbox.org/)**: Una solución de virtualización de código abierto popular que permite a los usuarios ejecutar múltiples sistemas operativos en una sola máquina física.
+- **[VMware Workstation](https://www.vmware.com/)**: Una aplicación de virtualización de escritorio avanzada que facilita la creación y gestión de máquinas virtuales en entornos personales y profesionales.
+- **[Proxmox VE](https://www.proxmox.com/)**: Una plataforma de virtualización de código abierto basada en Debian, que integra herramientas de gestión de máquinas virtuales (VMs) y contenedores en un único entorno.
+- **[QEMU](https://www.qemu.org/)**: Un emulador y virtualizador de código abierto que soporta múltiples arquitecturas de CPU y permite la ejecución de sistemas operativos y programas en entornos virtuales.
 
 ## La seguridad al 100% es imposible
 > [!IMPORTANT]
