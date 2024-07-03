@@ -26,6 +26,7 @@
 - **[Surfshark](https://surfshark.com)**: Una VPN que proporciona privacidad y seguridad en línea con conexiones rápidas y sin límites de dispositivos.
 - **[ProtonVPN](https://protonvpn.com)**: Un servicio de VPN desarrollado por los creadores de ProtonMail, conocido por su fuerte enfoque en la privacidad y la seguridad.
 - **[Mullvad VPN](https://mullvad.net/es)**: Una VPN centrada en la privacidad que enfatiza el anonimato y la protección de datos del usuario.
+- **[WireGuard](https://www.wireguard.com)**: Una aplicación de software libre y de código abierto y un protocolo de comunicación que implementa técnicas de red privada virtual para crear conexiones seguras punto a punto en configuraciones enrutadas o puenteadas.
 
 #### Alternativas a WhatsApp:
 - **[Threema](https://threema.ch/en)**: Una aplicación de mensajería segura que protege tus datos y comunicaciones con cifrado de extremo a extremo.
