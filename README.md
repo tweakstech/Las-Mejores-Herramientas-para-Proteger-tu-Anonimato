@@ -1,5 +1,78 @@
 # 🛡️🔒 Las Mejores Herramientas para Proteger tu Anonimato 🔐🕵️
 
+## 1. Principios Básicos de Seguridad
+
+Para proteger tus datos y mantener la seguridad, es esencial seguir tres principios fundamentales:
+
+- **Algo que sabes**: Contraseñas, PINs, respuestas a preguntas de seguridad.
+- **Algo que tienes**: Dispositivos físicos como llaves de seguridad, tokens de autenticación.
+- **Algo que eres**: Biometría, como huellas dactilares, reconocimiento facial.
+
+> [!NOTE]
+> **Principios Fundamentales**: Utiliza siempre una combinación de los tres principios básicos para mejorar la seguridad. La combinación de contraseñas con autenticación de dos factores y biometría ofrece una protección robusta.
+
+## 2. Estrategia de Seguridad en Capas
+
+### Capa 1: Autenticación
+
+- **Contraseñas Seguras**: Utiliza contraseñas que sean largas, aleatorias, y que no contengan información personal identificable. Combina letras mayúsculas y minúsculas, números y caracteres especiales.
+
+> [!TIP]
+> Usa un gestor de contraseñas para generar y almacenar contraseñas seguras. Esto te ayudará a evitar la reutilización de contraseñas y a mantenerlas únicas para cada cuenta.
+
+- **Autenticación de Dos Factores (2FA)**: Habilita 2FA siempre que sea posible. Utiliza un método que combine algo que sabes (contraseña) con algo que tienes (token de autenticación) o algo que eres (biometría).
+
+> [!IMPORTANT]
+> La autenticación de dos factores es una capa adicional de seguridad que puede proteger tus cuentas incluso si tu contraseña es comprometida. Asegúrate de activarla en todas las cuentas críticas.
+
+### Capa 2: Protección de Datos
+
+- **Encriptación**: Encripta todos los datos sensibles tanto en tránsito como en reposo. Utiliza algoritmos de encriptación robustos.
+
+> [!WARNING]
+> No utilices métodos de encriptación obsoletos. Asegúrate de que los algoritmos de encriptación estén actualizados para proteger tus datos contra las amenazas actuales.
+
+- **Acceso Basado en Roles**: Limita el acceso a los datos según el rol y las necesidades específicas. Solo los usuarios autorizados deben tener acceso a la información crítica.
+
+> [!CAUTION]
+> Un acceso inadecuado a los datos sensibles puede llevar a fugas de información y riesgos de seguridad. Revisa y ajusta los permisos regularmente para asegurar que solo las personas autorizadas tengan acceso.
+
+### Capa 3: Seguridad Física
+
+- **Control de Acceso**: Implementa controles de acceso físico en las instalaciones, como cerraduras y sistemas de vigilancia.
+
+> [!TIP]
+> Considera el uso de tarjetas de acceso con control de huellas dactilares para mejorar la seguridad física en áreas críticas.
+
+- **Protección de Dispositivos**: Asegúrate de que todos los dispositivos utilizados para acceder a información sensible estén protegidos físicamente y asegurados contra robos o accesos no autorizados.
+
+> [!IMPORTANT]
+> Mantén los dispositivos en lugares seguros y asegúrate de que estén protegidos con contraseñas y cifrado para prevenir accesos no autorizados.
+
+## 3. Información Pública y Contraseñas
+
+- **Uso de Información No Relacionada**: Evita usar información personal directamente relacionada contigo en contraseñas o respuestas a preguntas de seguridad. Utiliza combinaciones aleatorias y sin conexión directa a tu identidad.
+
+> [!NOTE]
+> La información personal como fechas de nacimiento o nombres de familiares es fácil de obtener para los atacantes. Usa contraseñas que no estén relacionadas con ninguna información personal.
+
+- **Actualización Regular**: Cambia tus contraseñas regularmente y asegúrate de que sean únicas para cada cuenta.
+
+> [!TIP]
+> Establece un recordatorio para cambiar tus contraseñas cada tres a seis meses. Esto reduce el riesgo en caso de que una contraseña se vea comprometida.
+
+## 4. Buenas Prácticas
+
+- **Educación y Conciencia**: Mantén a todos los miembros del equipo informados sobre las mejores prácticas de seguridad y realiza capacitaciones periódicas.
+
+> [!IMPORTANT]
+> La educación continua es clave para mantener una buena postura de seguridad. Realiza capacitaciones regulares para asegurarte de que todos estén al tanto de las últimas amenazas y prácticas.
+
+- **Monitoreo y Auditoría**: Implementa sistemas de monitoreo para detectar y responder a posibles amenazas y realiza auditorías de seguridad regularmente para identificar y mitigar vulnerabilidades.
+
+> [!WARNING]
+> Sin monitoreo adecuado, las amenazas pueden pasar desapercibidas hasta que causen daños significativos. Implementa soluciones de monitoreo y realiza auditorías frecuentes para mantener la seguridad.
+
 #### Navegadores:
 - **[Brave](https://brave.com/es/) (para uso habitual)**: Un navegador web rápido, privado y seguro que bloquea anuncios y rastreadores por defecto.
 - **[Mullvad Browser](https://mullvad.net/es/browser) (para más privacidad)**: Diseñado para maximizar la privacidad del usuario y minimizar la huella digital en línea.
@@ -74,6 +147,26 @@
 - **[VMware Workstation](https://www.vmware.com/)**: Una aplicación de virtualización de escritorio avanzada que facilita la creación y gestión de máquinas virtuales en entornos personales y profesionales.
 - **[Proxmox VE](https://www.proxmox.com/)**: Una plataforma de virtualización de código abierto basada en Debian, que integra herramientas de gestión de máquinas virtuales (VMs) y contenedores en un único entorno.
 - **[QEMU](https://www.qemu.org/)**: Un emulador y virtualizador de código abierto que soporta múltiples arquitecturas de CPU y permite la ejecución de sistemas operativos y programas en entornos virtuales.
+
+#### Servicios Anti-Privacidad:
+- **Windows**: Modifica el sistema operativo para proteger tu privacidad, ya que se sabe que recopila datos y los vende.
+- **iPhone**: Considerado un gasto innecesario debido a sus prácticas de privacidad cuestionables y su apoyo al trabajo esclavo en China.
+- **Android Phone**: Recomienda instalar [LineageOS](https://lineageos.org/) o [GrapheneOS](https://grapheneos.org/) para proteger tu privacidad, ya que Android en su forma estándar no la garantiza.
+- **Google Search**: Censurado por agencias como la CIA y la NSA, recopila y vende tus datos de búsqueda privados.
+- **Google Webbrowser**: Censurado por agencias como la CIA y la NSA, recopila y vende tus datos de navegación privados.
+- **Google Playstore**: Censurado por agencias como la CIA y la NSA, recopila y vende tus datos personales a terceros.
+- **Facebook**: Mark Zuckerberg controla y censura contenidos mientras recopila y vende tus datos personales.
+- **Instagram**: Mark Zuckerberg controla y censura contenidos mientras recopila y vende tus datos personales.
+- **WhatsApp**: Mark Zuckerberg controla y censura contenidos mientras recopila y vende tus datos personales.
+- **TikTok**: Censurado por el gobierno chino, recopila y vende tus datos personales a terceros.
+- **Epic Games**: Sospechado de recopilar y vender datos personales bajo influencia del gobierno chino.
+- **Easy Anti-Cheat**: Sospechado de recopilar y vender datos personales bajo influencia del gobierno chino.
+- **Ubisoft Connect**: Recopila y vende tus datos personales a terceros.
+- **Snapchat**: Grabación constante y recopilación de datos faciales para su venta a terceros.
+- **Amazon**: Ampliamente utilizado pero critica por apoyar el trabajo esclavo en China.
+- **Spotify**: Censura contenido y vende datos personales a terceros bajo políticas restrictivas de libertad de expresión.
+- **Discord**: Se recomienda su uso a través de un navegador web para evitar la aplicación, que podría comprometer tu privacidad.
+- **Twitch**: Recopila y vende tus datos personales a terceros sin tu consentimiento explícito.
 
 ## La seguridad al 100% es imposible
 > [!IMPORTANT]
