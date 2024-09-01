@@ -1,6 +1,6 @@
 # 🛡️🔒 Las Mejores Herramientas para Proteger tu Anonimato 🔐🕵️
 
-## 1. Principios Básicos de Seguridad
+## 1. Principios Básicos de Seguridad: Los Tres Pilares de la Seguridad Informática
 
 Para proteger tus datos y mantener la seguridad, es esencial seguir tres principios fundamentales:
 
@@ -9,7 +9,7 @@ Para proteger tus datos y mantener la seguridad, es esencial seguir tres princip
 - **Algo que eres**: Biometría, como huellas dactilares, reconocimiento facial.
 
 > [!NOTE]
-> **Principios Fundamentales**: Utiliza siempre una combinación de los tres principios básicos para mejorar la seguridad. La combinación de contraseñas con autenticación de dos factores y biometría ofrece una protección robusta.
+> **Principios Fundamentales**: Utiliza siempre una combinación de los tres pilares básicos de la seguridad informática para mejorar la seguridad. La combinación de contraseñas con autenticación de dos factores y biometría ofrece una protección robusta.
 
 ## 2. Estrategia de Seguridad en Capas
 
@@ -74,25 +74,54 @@ Para proteger tus datos y mantener la seguridad, es esencial seguir tres princip
 > Sin monitoreo adecuado, las amenazas pueden pasar desapercibidas hasta que causen daños significativos. Implementa soluciones de monitoreo y realiza auditorías frecuentes para mantener la seguridad.
 
 #### Navegadores:
-- **[Brave](https://brave.com/es/) (para uso habitual)**: Un navegador web rápido, privado y seguro que bloquea anuncios y rastreadores por defecto.
-- **[Mullvad Browser](https://mullvad.net/es/browser) (para más privacidad)**: Diseñado para maximizar la privacidad del usuario y minimizar la huella digital en línea.
-- **[Tor](https://www.torproject.org/es/) (para deep web)**: Un navegador que permite navegar por la web de manera anónima y acceder a sitios de la deep web.
+
+- **[Brave](https://brave.com/es/) (para uso habitual)**: Un navegador web rápido, privado y seguro que bloquea anuncios y rastreadores por defecto.  
+  **Funcionamiento**: Brave utiliza un bloqueador de anuncios incorporado para acelerar la navegación y proteger la privacidad del usuario al bloquear rastreadores de terceros. También ofrece un sistema de recompensas basado en criptomonedas para los usuarios que optan por ver anuncios.
+
+- **[Mullvad Browser](https://mullvad.net/es/browser) (para más privacidad)**: Diseñado para maximizar la privacidad del usuario y minimizar la huella digital en línea.  
+  **Funcionamiento**: Mullvad Browser, creado en colaboración con el Proyecto Tor, tiene un funcionamiento similar al de la red Tor. Aunque no requiere conectarse a la red Tor para usarse, utiliza técnicas similares para reducir la huella digital del usuario y proteger la privacidad en línea. Al igual que Tor Browser, está diseñado para ofuscar la información del usuario y dificultar el rastreo por parte de terceros.
+
+- **[Tor](https://www.torproject.org/es/) (para deep web)**: Un navegador que permite navegar por la web de manera anónima y acceder a sitios de la deep web, también conocido como la red Tor, que no es accesible desde navegadores convencionales.  
+  **Funcionamiento**: Tor Browser utiliza la red Tor para anonimizar la conexión del usuario. Envía el tráfico a través de una serie de nodos cifrados para ocultar la ubicación y la identidad del usuario, lo que permite navegar dentro de la red Tor, no en la red superficial (web normal). Sin embargo, es importante tener en cuenta que en el nodo de salida de la red Tor, la información puede ser vista y descifrada si no está protegida adecuadamente, como cuando se navega en sitios que no usan HTTPS. Por lo tanto, siempre existe un riesgo de exposición de datos en ese punto.
 
 #### Buscadores:
-- **[DuckDuckGo](https://duckduckgo.com)**: Un motor de búsqueda que no rastrea tus búsquedas ni tu actividad en línea.
-- **[Startpage](https://www.startpage.com)**: Un motor de búsqueda que garantiza la privacidad al no almacenar registros de búsqueda ni compartir información personal con terceros.
-- **[Qwant](https://www.qwant.com/?l=es)**: Un buscador que protege la privacidad al no rastrear a los usuarios ni filtrar los resultados según perfiles de usuario.
-- **[Brave Search](https://search.brave.com)**: El motor de búsqueda de Brave, que enfatiza la privacidad y la transparencia al no rastrear ni almacenar datos de usuarios.
+
+- **[DuckDuckGo](https://duckduckgo.com)**: Un motor de búsqueda que no rastrea tus búsquedas ni tu actividad en línea.  
+  **Funcionamiento**: DuckDuckGo prioriza la privacidad del usuario al no almacenar historiales de búsqueda ni rastrear la actividad en línea. Además, ofrece resultados de búsqueda imparciales sin crear perfiles de usuario, lo que evita los filtros personalizados y proporciona una experiencia de búsqueda más neutral.
+
+- **[Startpage](https://www.startpage.com)**: Un motor de búsqueda que garantiza la privacidad al no almacenar registros de búsqueda ni compartir información personal con terceros.  
+  **Funcionamiento**: Startpage obtiene resultados de búsqueda de Google, pero elimina toda la información de seguimiento y rastreo antes de mostrar los resultados al usuario. Esto permite acceder a la precisión de los resultados de Google mientras mantiene la privacidad del usuario intacta.
+
+- **[Qwant](https://www.qwant.com/?l=es)**: Un buscador que protege la privacidad al no rastrear a los usuarios ni filtrar los resultados según perfiles de usuario.  
+  **Funcionamiento**: Qwant no utiliza cookies ni rastrea el historial de búsqueda de los usuarios. Ofrece resultados de búsqueda sin filtros basados en perfiles, garantizando que los usuarios reciban información sin sesgos y sin comprometer su privacidad.
+
+- **[Brave Search](https://search.brave.com)**: El motor de búsqueda de Brave, que enfatiza la privacidad y la transparencia al no rastrear ni almacenar datos de usuarios.  
+  **Funcionamiento**: Brave Search proporciona resultados de búsqueda independientes y prioriza la privacidad del usuario. No rastrea ni almacena datos de usuarios y ofrece una experiencia de búsqueda sin anuncios ni seguimientos, manteniendo la privacidad y la seguridad como elementos centrales de su servicio.
 
 #### Antivirus:
-- **[Malwarebytes](https://es.malwarebytes.com/) (para uso habitual)**: Protege contra malware, ransomware y otras amenazas cibernéticas.
-- **[Kaspersky](https://www.kaspersky.com) (para más seguridad)**: Ofrece una robusta protección contra virus, malware y ataques en línea.
-- **[Norton](https://es.norton.com) (seguridad)**: Proporciona una protección completa contra diversas amenazas cibernéticas, incluyendo virus y ransomware.
+
+- **[Malwarebytes](https://es.malwarebytes.com/) (para uso habitual)**: Protege contra malware, ransomware y otras amenazas cibernéticas.  
+  **Funcionamiento**: Malwarebytes se especializa en detectar y eliminar malware, spyware, adware y otras amenazas avanzadas que a menudo pasan desapercibidas para otros programas antivirus. Ofrece análisis bajo demanda y en tiempo real para proteger los dispositivos de infecciones y prevenir ataques de ransomware y otras amenazas emergentes.
+
+- **[Kaspersky](https://www.kaspersky.com) (para más seguridad)**: Ofrece una robusta protección contra virus, malware y ataques en línea.  
+  **Funcionamiento**: Kaspersky proporciona una protección antivirus completa con una base de datos de virus actualizada regularmente para defenderse contra las amenazas más recientes. Incluye funciones de seguridad avanzadas como la protección contra phishing, la navegación segura, el control parental y una VPN para proteger la privacidad en línea.
+
+- **[Norton](https://es.norton.com) (seguridad)**: Proporciona una protección completa contra diversas amenazas cibernéticas, incluyendo virus y ransomware.  
+  **Funcionamiento**: Norton utiliza un enfoque multifacético para la seguridad en línea, combinando protección contra virus, malware, spyware, ransomware y más. Incluye herramientas como la seguridad de la red Wi-Fi, un administrador de contraseñas, copias de seguridad automáticas y una VPN para brindar una defensa integral contra todo tipo de amenazas cibernéticas.
 
 #### Gestores de Contraseñas:
-- **[KeePass](https://keepass.info)**: Un gestor de contraseñas gratuito y de código abierto que almacena todas tus contraseñas en una base de datos cifrada.
-- **[1Password](https://1password.com/es)**: Un gestor de contraseñas que facilita el almacenamiento y uso de contraseñas seguras en todos tus dispositivos.
-- **[Norton Password Manager](https://my.norton.com/extspa/passwordmanager)**: Un gestor de contraseñas integrado en el paquete de seguridad de Norton.
+
+- **[KeePass](https://keepass.info)**: Un gestor de contraseñas gratuito y de código abierto que almacena todas tus contraseñas en una base de datos cifrada.  
+  **Funcionamiento**: KeePass guarda las contraseñas en una base de datos local que está cifrada con algoritmos avanzados. Esto significa que el usuario tiene control total sobre sus datos sin necesidad de almacenarlos en la nube, lo que añade una capa adicional de seguridad y privacidad.
+
+- **[1Password](https://1password.com/es)**: Un gestor de contraseñas que facilita el almacenamiento y uso de contraseñas seguras en todos tus dispositivos.  
+  **Funcionamiento**: 1Password sincroniza las contraseñas y otra información confidencial a través de una cuenta en la nube cifrada, accesible en todos tus dispositivos. Ofrece características adicionales como la autenticación de dos factores, almacenamiento seguro de documentos y alertas de brechas de seguridad.
+
+- **[Norton Password Manager](https://my.norton.com/extspa/passwordmanager)**: Un gestor de contraseñas integrado en el paquete de seguridad de Norton.  
+  **Funcionamiento**: Norton Password Manager se integra con el resto de las herramientas de seguridad de Norton para ofrecer una solución de gestión de contraseñas que también protege contra amenazas en línea. Almacena contraseñas en una bóveda segura en la nube, accesible desde cualquier dispositivo con la cuenta Norton.
+
+- **[Proton Pass](https://proton.me/es-419/pass)**: Un gestor de contraseñas desarrollado por los creadores de ProtonMail, enfocado en la privacidad y seguridad.  
+  **Funcionamiento**: Proton Pass ofrece un cifrado extremo a extremo para todas las contraseñas y datos almacenados, lo que asegura que solo el usuario puede acceder a su información. También incluye opciones para generar contraseñas seguras y funciones de sincronización multiplataforma sin comprometer la privacidad del usuario.
 
 #### VPN:
 - **[NordVPN](https://nordvpn.com)**: Un servicio de VPN que ofrece una conexión segura y privada, ocultando tu dirección IP y cifrando tu tráfico de internet.
