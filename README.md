@@ -76,52 +76,52 @@ Para proteger tus datos y mantener la seguridad, es esencial seguir tres princip
 #### Navegadores:
 
 - **[Brave](https://brave.com/es/) (para uso habitual)**: Un navegador web rápido, privado y seguro que bloquea anuncios y rastreadores por defecto.  
- - **Funcionamiento**: Brave utiliza un bloqueador de anuncios incorporado para acelerar la navegación y proteger la privacidad del usuario al bloquear rastreadores de terceros. También ofrece un sistema de recompensas basado en criptomonedas para los usuarios que optan por ver anuncios.
+  **Funcionamiento**: Brave utiliza un bloqueador de anuncios incorporado para acelerar la navegación y proteger la privacidad del usuario al bloquear rastreadores de terceros. También ofrece un sistema de recompensas basado en criptomonedas para los usuarios que optan por ver anuncios.
 
 - **[Mullvad Browser](https://mullvad.net/es/browser) (para más privacidad)**: Diseñado para maximizar la privacidad del usuario y minimizar la huella digital en línea.  
- - **Funcionamiento**: Mullvad Browser, creado en colaboración con el Proyecto Tor, tiene un funcionamiento similar al de la red Tor. Aunque no requiere conectarse a la red Tor para usarse, utiliza técnicas similares para reducir la huella digital del usuario y proteger la privacidad en línea. Al igual que Tor Browser, está diseñado para ofuscar la información del usuario y dificultar el rastreo por parte de terceros.
+  **Funcionamiento**: Mullvad Browser, creado en colaboración con el Proyecto Tor, tiene un funcionamiento similar al de la red Tor. Aunque no requiere conectarse a la red Tor para usarse, utiliza técnicas similares para reducir la huella digital del usuario y proteger la privacidad en línea. Al igual que Tor Browser, está diseñado para ofuscar la información del usuario y dificultar el rastreo por parte de terceros.
 
 - **[Tor](https://www.torproject.org/es/) (para deep web)**: Un navegador que permite navegar por la web de manera anónima y acceder a sitios de la deep web, también conocido como la red Tor, que no es accesible desde navegadores convencionales.  
- - **Funcionamiento**: Tor Browser utiliza la red Tor para anonimizar la conexión del usuario. Envía el tráfico a través de una serie de nodos cifrados para ocultar la ubicación y la identidad del usuario, lo que permite navegar dentro de la red Tor, no en la red superficial (web normal). Sin embargo, es importante tener en cuenta que en el nodo de salida de la red Tor, la información puede ser vista y descifrada si no está protegida adecuadamente, como cuando se navega en sitios que no usan HTTPS. Por lo tanto, siempre existe un riesgo de exposición de datos en ese punto.
+  **Funcionamiento**: Tor Browser utiliza la red Tor para anonimizar la conexión del usuario. Envía el tráfico a través de una serie de nodos cifrados para ocultar la ubicación y la identidad del usuario, lo que permite navegar dentro de la red Tor, no en la red superficial (web normal). Sin embargo, es importante tener en cuenta que en el nodo de salida de la red Tor, la información puede ser vista y descifrada si no está protegida adecuadamente, como cuando se navega en sitios que no usan HTTPS. Por lo tanto, siempre existe un riesgo de exposición de datos en ese punto.
 
 #### Buscadores:
 
 - **[DuckDuckGo](https://duckduckgo.com)**: Un motor de búsqueda que no rastrea tus búsquedas ni tu actividad en línea.  
- - **Funcionamiento**: DuckDuckGo prioriza la privacidad del usuario al no almacenar historiales de búsqueda ni rastrear la actividad en línea. Además, ofrece resultados de búsqueda imparciales sin crear perfiles de usuario, lo que evita los filtros personalizados y proporciona una experiencia de búsqueda más neutral.
+  **Funcionamiento**: DuckDuckGo prioriza la privacidad del usuario al no almacenar historiales de búsqueda ni rastrear la actividad en línea. Además, ofrece resultados de búsqueda imparciales sin crear perfiles de usuario, lo que evita los filtros personalizados y proporciona una experiencia de búsqueda más neutral.
 
 - **[Startpage](https://www.startpage.com)**: Un motor de búsqueda que garantiza la privacidad al no almacenar registros de búsqueda ni compartir información personal con terceros.  
- - **Funcionamiento**: Startpage obtiene resultados de búsqueda de Google, pero elimina toda la información de seguimiento y rastreo antes de mostrar los resultados al usuario. Esto permite acceder a la precisión de los resultados de Google mientras mantiene la privacidad del usuario intacta.
+  **Funcionamiento**: Startpage obtiene resultados de búsqueda de Google, pero elimina toda la información de seguimiento y rastreo antes de mostrar los resultados al usuario. Esto permite acceder a la precisión de los resultados de Google mientras mantiene la privacidad del usuario intacta.
 
 - **[Qwant](https://www.qwant.com/?l=es)**: Un buscador que protege la privacidad al no rastrear a los usuarios ni filtrar los resultados según perfiles de usuario.  
-  - **Funcionamiento**: Qwant no utiliza cookies ni rastrea el historial de búsqueda de los usuarios. Ofrece resultados de búsqueda sin filtros basados en perfiles, garantizando que los usuarios reciban información sin sesgos y sin comprometer su privacidad.
+  **Funcionamiento**: Qwant no utiliza cookies ni rastrea el historial de búsqueda de los usuarios. Ofrece resultados de búsqueda sin filtros basados en perfiles, garantizando que los usuarios reciban información sin sesgos y sin comprometer su privacidad.
 
 - **[Brave Search](https://search.brave.com)**: El motor de búsqueda de Brave, que enfatiza la privacidad y la transparencia al no rastrear ni almacenar datos de usuarios.  
- - **Funcionamiento**: Brave Search proporciona resultados de búsqueda independientes y prioriza la privacidad del usuario. No rastrea ni almacena datos de usuarios y ofrece una experiencia de búsqueda sin anuncios ni seguimientos, manteniendo la privacidad y la seguridad como elementos centrales de su servicio.
+  **Funcionamiento**: Brave Search proporciona resultados de búsqueda independientes y prioriza la privacidad del usuario. No rastrea ni almacena datos de usuarios y ofrece una experiencia de búsqueda sin anuncios ni seguimientos, manteniendo la privacidad y la seguridad como elementos centrales de su servicio.
 
 #### Antivirus:
 
 - **[Malwarebytes](https://es.malwarebytes.com/) (para uso habitual)**: Protege contra malware, ransomware y otras amenazas cibernéticas.  
- - **Funcionamiento**: Malwarebytes se especializa en detectar y eliminar malware, spyware, adware y otras amenazas avanzadas que a menudo pasan desapercibidas para otros programas antivirus. Ofrece análisis bajo demanda y en tiempo real para proteger los dispositivos de infecciones y prevenir ataques de ransomware y otras amenazas emergentes.
+  **Funcionamiento**: Malwarebytes se especializa en detectar y eliminar malware, spyware, adware y otras amenazas avanzadas que a menudo pasan desapercibidas para otros programas antivirus. Ofrece análisis bajo demanda y en tiempo real para proteger los dispositivos de infecciones y prevenir ataques de ransomware y otras amenazas emergentes.
 
 - **[Kaspersky](https://www.kaspersky.com) (para más seguridad)**: Ofrece una robusta protección contra virus, malware y ataques en línea.  
- - **Funcionamiento**: Kaspersky proporciona una protección antivirus completa con una base de datos de virus actualizada regularmente para defenderse contra las amenazas más recientes. Incluye funciones de seguridad avanzadas como la protección contra phishing, la navegación segura, el control parental y una VPN para proteger la privacidad en línea.
+  **Funcionamiento**: Kaspersky proporciona una protección antivirus completa con una base de datos de virus actualizada regularmente para defenderse contra las amenazas más recientes. Incluye funciones de seguridad avanzadas como la protección contra phishing, la navegación segura, el control parental y una VPN para proteger la privacidad en línea.
 
 - **[Norton](https://es.norton.com) (seguridad)**: Proporciona una protección completa contra diversas amenazas cibernéticas, incluyendo virus y ransomware.  
- - **Funcionamiento**: Norton utiliza un enfoque multifacético para la seguridad en línea, combinando protección contra virus, malware, spyware, ransomware y más. Incluye herramientas como la seguridad de la red Wi-Fi, un administrador de contraseñas, copias de seguridad automáticas y una VPN para brindar una defensa integral contra todo tipo de amenazas cibernéticas.
+  **Funcionamiento**: Norton utiliza un enfoque multifacético para la seguridad en línea, combinando protección contra virus, malware, spyware, ransomware y más. Incluye herramientas como la seguridad de la red Wi-Fi, un administrador de contraseñas, copias de seguridad automáticas y una VPN para brindar una defensa integral contra todo tipo de amenazas cibernéticas.
 
 #### Gestores de Contraseñas:
 
 - **[KeePass](https://keepass.info)**: Un gestor de contraseñas gratuito y de código abierto que almacena todas tus contraseñas en una base de datos cifrada.  
- - **Funcionamiento**: KeePass guarda las contraseñas en una base de datos local que está cifrada con algoritmos avanzados. Esto significa que el usuario tiene control total sobre sus datos sin necesidad de almacenarlos en la nube, lo que añade una capa adicional de seguridad y privacidad.
+  **Funcionamiento**: KeePass guarda las contraseñas en una base de datos local que está cifrada con algoritmos avanzados. Esto significa que el usuario tiene control total sobre sus datos sin necesidad de almacenarlos en la nube, lo que añade una capa adicional de seguridad y privacidad.
 
 - **[1Password](https://1password.com/es)**: Un gestor de contraseñas que facilita el almacenamiento y uso de contraseñas seguras en todos tus dispositivos.  
- - **Funcionamiento**: 1Password sincroniza las contraseñas y otra información confidencial a través de una cuenta en la nube cifrada, accesible en todos tus dispositivos. Ofrece características adicionales como la autenticación de dos factores, almacenamiento seguro de documentos y alertas de brechas de seguridad.
+  **Funcionamiento**: 1Password sincroniza las contraseñas y otra información confidencial a través de una cuenta en la nube cifrada, accesible en todos tus dispositivos. Ofrece características adicionales como la autenticación de dos factores, almacenamiento seguro de documentos y alertas de brechas de seguridad.
 
 - **[Norton Password Manager](https://my.norton.com/extspa/passwordmanager)**: Un gestor de contraseñas integrado en el paquete de seguridad de Norton.  
-  - **Funcionamiento**: Norton Password Manager se integra con el resto de las herramientas de seguridad de Norton para ofrecer una solución de gestión de contraseñas que también protege contra amenazas en línea. Almacena contraseñas en una bóveda segura en la nube, accesible desde cualquier dispositivo con la cuenta Norton.
+  **Funcionamiento**: Norton Password Manager se integra con el resto de las herramientas de seguridad de Norton para ofrecer una solución de gestión de contraseñas que también protege contra amenazas en línea. Almacena contraseñas en una bóveda segura en la nube, accesible desde cualquier dispositivo con la cuenta Norton.
 
 - **[Proton Pass](https://proton.me/es-419/pass)**: Un gestor de contraseñas desarrollado por los creadores de ProtonMail, enfocado en la privacidad y seguridad.  
-  - **Funcionamiento**: Proton Pass ofrece un cifrado extremo a extremo para todas las contraseñas y datos almacenados, lo que asegura que solo el usuario puede acceder a su información. También incluye opciones para generar contraseñas seguras y funciones de sincronización multiplataforma sin comprometer la privacidad del usuario.
+  **Funcionamiento**: Proton Pass ofrece un cifrado extremo a extremo para todas las contraseñas y datos almacenados, lo que asegura que solo el usuario puede acceder a su información. También incluye opciones para generar contraseñas seguras y funciones de sincronización multiplataforma sin comprometer la privacidad del usuario.
 
 #### VPN:
 - **[NordVPN](https://nordvpn.com)**: Un servicio de VPN que ofrece una conexión segura y privada, ocultando tu dirección IP y cifrando tu tráfico de internet.
@@ -176,6 +176,40 @@ Para proteger tus datos y mantener la seguridad, es esencial seguir tres princip
 - **[VMware Workstation](https://www.vmware.com/)**: Una aplicación de virtualización de escritorio avanzada que facilita la creación y gestión de máquinas virtuales en entornos personales y profesionales.
 - **[Proxmox VE](https://www.proxmox.com/)**: Una plataforma de virtualización de código abierto basada en Debian, que integra herramientas de gestión de máquinas virtuales (VMs) y contenedores en un único entorno.
 - **[QEMU](https://www.qemu.org/)**: Un emulador y virtualizador de código abierto que soporta múltiples arquitecturas de CPU y permite la ejecución de sistemas operativos y programas en entornos virtuales.
+
+#### Consejos para Mantenerse Anónimo en Línea
+
+- **No guardar el historial de navegación**: Configura tu navegador para que no guarde el historial de navegación o utiliza el modo de navegación privada/incógnito. Esto evita que se almacenen registros de los sitios web que visitas.
+
+- **No guardar contraseñas en el navegador**: Desactiva la opción de guardar contraseñas en tu navegador. Utiliza un gestor de contraseñas seguro en su lugar, ya que almacenar contraseñas en el navegador puede poner en riesgo tu seguridad en caso de acceso no autorizado.
+
+- **No personalizar tu experiencia en línea**: Evita la personalización de tu experiencia en línea desactivando cookies de rastreo y otros mecanismos que recolectan datos sobre tu comportamiento en la web. Esto ayuda a prevenir la creación de perfiles de usuario y reduce la cantidad de información personal que se recopila.
+
+- **Utilizar navegadores enfocados en la privacidad**: Emplea navegadores que prioricen la privacidad, como Brave, Tor o Mullvad Browser, los cuales están diseñados para minimizar el seguimiento y proteger la privacidad del usuario.
+
+- **Desactivar la geolocalización**: Asegúrate de que la geolocalización esté desactivada en tu navegador y en tus aplicaciones para evitar que se recopile información sobre tu ubicación física.
+
+- **Utilizar una red privada virtual (VPN)**: Conéctate a internet a través de una VPN para ocultar tu dirección IP y cifrar tu tráfico de internet. Esto ayuda a proteger tu identidad y ubicación, y previene la monitorización de tu actividad en línea por parte de terceros.
+
+- **Evitar el uso de redes Wi-Fi públicas**: Si es posible, evita las redes Wi-Fi públicas, ya que pueden ser inseguras y permitir que terceros intercepten tu tráfico de internet. Si necesitas usar una red pública, asegúrate de conectarte a través de una VPN.
+
+- **Limitar la cantidad de información personal compartida en línea**: Sé consciente de la información personal que compartes en redes sociales, foros y otros sitios web. Ajusta las configuraciones de privacidad en tus cuentas para limitar quién puede ver tu información y publicaciones.
+
+- **Desactivar los servicios de rastreo y analítica**: Utiliza extensiones de navegador como uBlock Origin o Privacy Badger para bloquear rastreadores y scripts de analítica que recolectan datos sobre tu actividad en línea.
+
+- **Usar correos electrónicos y números de teléfono desechables**: Cuando te registres en sitios web o servicios en línea, considera usar correos electrónicos temporales y números de teléfono desechables para proteger tu información personal y evitar ser rastreado.
+
+- **Verificar los permisos de las aplicaciones móviles**: Revisa y ajusta los permisos de las aplicaciones en tu teléfono móvil para asegurarte de que no accedan a más información de la necesaria, como tus contactos, ubicación o cámara.
+
+- **Utilizar proxies**: Emplea proxies para enmascarar tu dirección IP y redirigir tu tráfico a través de servidores intermediarios. Esto puede ayudar a ocultar tu ubicación y tu identidad en línea, aunque ten en cuenta que la privacidad y seguridad de un proxy pueden variar según el proveedor.
+
+- **Cambiar el user agent**: Modifica el user agent de tu navegador para que aparezcas como un usuario diferente ante los sitios web que visitas. Esto puede ayudar a evitar el seguimiento basado en la identificación del navegador y el sistema operativo.
+
+- **Usar DNS privados en los routers**: Configura tu router para usar servidores DNS privados o seguros, como AdGuard (176.103.130.130 y 176.103.130.131) o Quad9 (9.9.9.9 y 149.112.112.112). Esto puede mejorar la privacidad al evitar que tu proveedor de servicios de internet (ISP) vea tus consultas DNS y asegura una navegación más segura al prevenir el redireccionamiento malicioso.
+
+- **No usar información personal**: Evita usar información personal identificable, como tu nombre real, dirección o datos de contacto, cuando te registres en sitios web o participes en foros en línea. Utiliza seudónimos y datos genéricos para proteger tu identidad.
+
+- **Mantener las cuentas en privado**: Asegúrate de que las configuraciones de privacidad en tus cuentas de redes sociales y otras plataformas en línea estén ajustadas para que tu perfil sea privado. Esto limita el acceso a tu información personal y publicaciones solo a las personas que tú apruebas.
 
 #### Servicios Anti-Privacidad:
 - **Windows**: Modifica el sistema operativo para proteger tu privacidad, ya que se sabe que recopila datos y los vende.
