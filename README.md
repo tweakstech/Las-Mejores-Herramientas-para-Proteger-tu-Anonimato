@@ -235,6 +235,12 @@ Para proteger tus datos y mantener la seguridad, es esencial seguir tres princip
 > [!IMPORTANT]
 > Aunque sigas todos estos consejos, la privacidad absoluta es prácticamente inalcanzable en la era digital. Para mantener niveles más altos de privacidad, sería ideal retroceder en el tiempo y evitar el uso de tecnologías modernas.
 
+## Todo por los 14 Ojos
+- El término "14 Ojos" se refiere a un grupo de países que comparten información de inteligencia con el propósito de realizar vigilancia y recopilar datos. Este grupo incluye a Estados Unidos, Canadá, Reino Unido, Australia, Nueva Zelanda y otros países aliados, que han formado acuerdos de cooperación en materia de seguridad y espionaje.
+
+## El Proyecto PRISM
+- PRISM es un programa de vigilancia de la Agencia de Seguridad Nacional de Estados Unidos (NSA) que permite la recolección de datos de comunicaciones electrónicas a gran escala. Revelado en 2007 por Edward Snowden, PRISM ha sido objeto de controversia debido a sus implicaciones para la privacidad y los derechos civiles, ya que permite a las agencias de inteligencia acceder a datos personales de usuarios de internet en todo el mundo.
+
 
 ---
 
